@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "server": "json-server --watch ./src/index.js"
   },
   "author": "",

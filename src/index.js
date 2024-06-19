@@ -1,5 +1,5 @@
-const ammibo = require('./amiibo.json');
+const ammibo = require("./amiibo.json");
 
 module.exports = () => ({
-    ammibo: ammibo,
-})
+  ammibo: ammibo,
+});
